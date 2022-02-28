@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+  grid-template-columns: 230px 230px 230px;
+  grid-template-rows: 230px 230px 230px;
+  margin-top: 50px;
+}
+
+.reset {
+  width: 200px;
+  height: 50px;
+  font-size: 1.3rem;
+  background-color: brown;
+  color: white;
+}
